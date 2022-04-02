@@ -4,8 +4,11 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
+# Javascript files
+*.js
+
+# CSS files
+*.css
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
